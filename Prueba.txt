@@ -4,7 +4,7 @@ Realizamos cambios importantes.
 Ya.
 
 
-Estos cambios se están realizando en la cabecera, entonces se deben eliminar cuando se cambie a master.  
+Estos cambios se están realizando en la cabecera.  
 
 
 
