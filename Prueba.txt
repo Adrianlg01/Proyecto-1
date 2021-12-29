@@ -4,7 +4,7 @@ Realizamos cambios importantes.
 Ya.
 
 
-Estos cambios se están realizando en master.  
+Estos cambios se están realizando en cabecera y es lo que se va a quedar. 
 
 
 
