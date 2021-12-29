@@ -1,7 +1,10 @@
 Esta es una prueba uno del proyecto 1
 Realizamos cambios importantes. 
 
-Ya. 
+Ya.
+
+
+Estos cambios se están realizando en la cabecera, entonces se deben eliminar cuando se cambie a master.  
 
 
 
