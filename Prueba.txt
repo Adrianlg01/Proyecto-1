@@ -12,3 +12,7 @@ Esto es para comprobar si sí está teniendo una buena conexión.
 
 Saludos. 
 
+Okay, ya vimos que sí se puede realizar una obtención de los cambios hechos en git hub, pero ahora os interesa saber cómo realizar los cambios desde el local a git hub. 
+Bye. 
+
+
