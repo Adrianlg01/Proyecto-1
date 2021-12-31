@@ -6,5 +6,9 @@ Ya.
 
 Estos cambios se están realizando en cabecera y es lo que se va a quedar. 
 
-Cambios en GITHUB
+Cambios en GITHUB. Añadiendo más cambios en GIT HUB. 
+
+Esto es para comprobar si sí está teniendo una buena conexión.
+
+Saludos. 
 
