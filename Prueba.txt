@@ -21,3 +21,5 @@ Veamos si esto esetá siendo problematico.
 Vamos a realizar un cambio para probar los cambios realizados en un pull request. 
 
 Quiero colaborar con este archivo, a continuación pongo las cosas que deseo añadir, espero te gusten. 
+
+Voy a tenerlo que hacer por aquí, porque no sé qué estoy haciendo mal :c. 
