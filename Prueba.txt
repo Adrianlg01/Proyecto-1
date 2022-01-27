@@ -20,4 +20,7 @@ Veamos si esto esetá siendo problematico.
 
 Vamos a realizar un cambio para probar los cambios realizados en un pull request. 
 
-Quiero colaborar con este archivo, a continuación pongo las cosas que deseo añadir, espero te gusten. 
+Quiero colaborar con este archivo, a continuación pongo las cosas que deseo añadir, espero te gusten.
+
+Otra oportunidad para realizar cambios en github. 
+
