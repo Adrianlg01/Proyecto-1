@@ -16,5 +16,8 @@ Saludos.
 Okay, ya vimos que sí se puede realizar una obtención de los cambios hechos en git hub, pero ahora os interesa saber cómo realizar los cambios desde el local a git hub. 
 Bye. 
 
-Ahora queremos ver los cambios que se realizan en el footer. 
+Veamos si esto esetá siendo problematico. 
+
+Vamos a realizar un cambio para probar los cambios realizados en un pull request. 
+
 
